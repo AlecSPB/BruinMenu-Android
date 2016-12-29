@@ -1,0 +1,58 @@
+[
+  {
+    "hall_name": "Bruin Café",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  },
+  {
+    "hall_name": "Bruin Plate",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  },
+  {
+    "hall_name": "Café 1919",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  },
+  {
+    "hall_name": "Covel",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  },
+  {
+    "hall_name": "De Neve",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  },
+  {
+    "hall_name": "De Neve Grab 'N Go",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  },
+  {
+    "hall_name": "FEAST at Rieber",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  },
+  {
+    "hall_name": "Rendezvous",
+    "breakfast": "CLOSED",
+    "lunch": "CLOSED",
+    "dinner": "CLOSED",
+    "late_night": "CLOSED"
+  }
+]

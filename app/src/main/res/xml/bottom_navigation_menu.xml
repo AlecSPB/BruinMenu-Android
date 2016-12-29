@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/halls"
+        icon="@drawable/ic_restaurant"
+        title="@string/hall"
+        barColorWhenSelected="@color/colorPrimary"/>
+    <tab
+        id="@+id/swipes"
+        icon="@drawable/ic_swipe"
+        title="@string/swipes"
+        barColorWhenSelected="@color/colorPrimary"/>
+    <tab
+        id="@+id/hours"
+        icon="@drawable/ic_hours"
+        title="@string/hours"
+        barColorWhenSelected="@color/colorPrimary"/>
+</tabs>
